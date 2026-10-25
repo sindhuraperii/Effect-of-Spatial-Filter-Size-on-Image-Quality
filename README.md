@@ -167,18 +167,22 @@ No installation is required, and a CPU runtime is enough.
 ### Output Screenshots
 
 **Image information (Step 2):**
+
 <img width="599" height="58" alt="image" src="https://github.com/user-attachments/assets/3ace98a5-be12-4862-b450-fd2426cee07f" />
 
 
 **Results table (Step 6):**
+
 <img width="3493" height="1569" alt="image" src="https://github.com/user-attachments/assets/d9e32869-1d7c-4d0b-ad20-d2d20f4cd475" />
 
 
 **PSNR and SSIM versus kernel size (Step 7):**
+
 <img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/eeeb9a2b-ea67-4a65-9e06-9be3a3b20560" />
 
 
 **Visual comparison at 7 × 7 (Step 8):**
+
 <img width="1415" height="282" alt="image" src="https://github.com/user-attachments/assets/3b8184a0-a305-4db0-8eaf-4464e24c01db" />
 
 
