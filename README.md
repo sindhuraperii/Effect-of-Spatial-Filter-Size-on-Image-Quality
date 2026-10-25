@@ -174,7 +174,7 @@ No installation is required, and a CPU runtime is enough.
 ![Results table with 38 rows](images/02_results_table.png)
 
 **PSNR and SSIM versus kernel size (Step 7):**
-![PSNR and SSIM plots for both noise types](images/03_psnr_ssim_plots.png)
+![PSNR and SSIM plots for both noise types](C:\Users\DELL\Desktop\download.png)
 
 **Visual comparison at 7 × 7 (Step 8):**
 ![Original, noisy, mean, Gaussian, and median outputs](images/04_visual_comparison.png)
