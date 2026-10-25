@@ -258,5 +258,4 @@ This study examined how spatial filter size affects image quality. Mean, Gaussia
 
 ## 👥 Authors
 
-**[Your Name]** · Roll No. [Roll Number]
-[Course Name and Code] · Instructor: [Instructor Name] · [Institution]
+**[Gayathri Sindhura Peri]** · 
