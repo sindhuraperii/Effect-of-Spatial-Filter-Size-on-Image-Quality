@@ -6,7 +6,7 @@
 [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
 [![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Spatial_Filter_Size_Study.ipynb)
+[![Open In Colab] (https://colab.research.google.com/drive/13SMZopYFUTqsGQYvKgcQYy9JCMkhcJse#scrollTo=1E2FI0ctWZDn)
 
 A classical image processing case study that measures how kernel size controls the trade-off between noise removal and detail preservation for mean, Gaussian, and median filters.
 
