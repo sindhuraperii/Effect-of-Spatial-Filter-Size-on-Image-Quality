@@ -12,8 +12,6 @@ A classical image processing case study that measures how kernel size controls t
 
 🔗 **[Open the Colab Notebook](https://colab.research.google.com/drive/13SMZopYFUTqsGQYvKgcQYy9JCMkhcJse)** 
 
-![Visual comparison of mean, Gaussian, and median filters at 7 × 7](images/04_visual_comparison.png)
-
 ## 🚀 Executive Summary
 
 Spatial filters clean up noisy images by replacing each pixel with a value computed from its neighborhood. A larger window removes more noise, but it also averages across real edges. This project asks a practical question: when the filter window grows, how much noise is removed, and how much detail is lost?
