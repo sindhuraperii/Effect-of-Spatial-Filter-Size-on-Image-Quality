@@ -158,17 +158,6 @@ Effect-of-Spatial-Filter-Size-on-Image-Quality/
 
 No installation is required, and a CPU runtime is enough.
 
-### Option 2: Run Locally
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
-pip install numpy opencv-python scikit-image pandas matplotlib jupyter
-jupyter notebook Spatial_Filter_Size_Study.ipynb
-```
-
-When running locally, skip the last two lines of Step 9 (the `google.colab` import and the download call).
-
 ### Expected Output
 
 - Step 2 prints the image shape `(512, 512)` and dtype `uint8`.
