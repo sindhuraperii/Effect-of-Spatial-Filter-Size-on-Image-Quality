@@ -201,7 +201,6 @@ No installation is required, and a CPU runtime is enough.
 | Salt & pepper | Gaussian | [TBD] | [TBD] | [TBD] | [TBD] |
 | Salt & pepper | Median | [TBD] | [TBD] | [TBD] | [TBD] |
 
-The full results are in [`filter_size_results.csv`](filter_size_results.csv).
 
 ## 🔍 Key Findings
 
@@ -258,4 +257,4 @@ This study examined how spatial filter size affects image quality. Mean, Gaussia
 
 ## 👥 Authors
 
-**[Gayathri Sindhura Peri]** · 
+**[Gayathri Sindhura Peri]** 
