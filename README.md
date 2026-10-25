@@ -10,7 +10,7 @@
 
 A classical image processing case study that measures how kernel size controls the trade-off between noise removal and detail preservation for mean, Gaussian, and median filters.
 
-🔗 **[Open the Colab Notebook](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Spatial_Filter_Size_Study.ipynb)** · 📄 **[Results CSV](filter_size_results.csv)**
+🔗 **[Open the Colab Notebook](https://colab.research.google.com/drive/13SMZopYFUTqsGQYvKgcQYy9JCMkhcJse)** · 📄 **[Results CSV](filter_size_results.csv)**
 
 ![Visual comparison of mean, Gaussian, and median filters at 7 × 7](images/04_visual_comparison.png)
 
